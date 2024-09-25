@@ -1,0 +1,87 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /administrator/
+Disallow: /api/
+Disallow: /cache/
+Disallow: /cli/
+Disallow: /components/
+Disallow: /includes/
+Disallow: /installation/
+Disallow: /language/
+Disallow: /layouts/
+Disallow: /libraries/
+Disallow: /logs/
+Disallow: /modules/
+Disallow: /plugins/
+Disallow: /tmp/
+Disallow: /cgi-bin/
+Disallow: /private/
+Disallow: /auth/facebook
+
+
+User-agent: TeleportPro
+Disallow: /
+
+User-agent: EmailCollector
+Disallow: /
+
+User-agent: Scrapy
+Disallow: /
+
+#User-agent: ia_archiver-web.archive.org
+#Disallow: /
+
+User-agent: EmailSiphon
+Disallow: /
+
+User-agent: WebStripper
+Disallow: /
+
+User-agent: Web Downloader
+Disallow: /
+User-agent: WebBandit
+Disallow: /
+
+User-agent: WebZIP
+Disallow: /
+
+User-agent: WebReaper
+Disallow: /
+
+#User-agent: ia_archiver
+#Disallow: /
+
+User-agent: Teleport
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
+User-agent: Leech
+Disallow: /
+
+User-agent: Offline Explorer Pro
+Disallow: /
+
+User-agent: HTTrack Website Copier
+Disallow: /
+
+User-agent: Offline Commander
+Disallow: /
+
+
+
+User-agent: WebSnake
+Disallow: /
+
+User-agent: BlackWidow
+Disallow: /
+
+
+User-agent: Extreme Picture Finder
+Disallow: /
+
+User-agent: HTTP Weazel
+Disallow: /
+
+Sitemap: https://edysor.in/sitemap.xml
